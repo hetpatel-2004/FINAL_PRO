@@ -80,7 +80,6 @@ pyparsing==3.2.1
 python-dateutil==2.9.0.post0
 python-json-logger==2.0.7
 pytz==2025.1
-pywinpty==2.0.12
 PyYAML==6.0.1
 pyzmq==25.1.2
 qtconsole==5.5.1
@@ -90,7 +89,6 @@ regex==2024.11.6
 requests==2.31.0
 rfc3339-validator==0.1.4
 rfc3986-validator==0.1.1
-rpds-py==0.16.2
 scikit-learn==1.6.1
 scipy==1.15.1
 seaborn==0.13.2
